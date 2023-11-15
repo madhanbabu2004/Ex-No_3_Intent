@@ -210,7 +210,11 @@ public class activity_second extends AppCompatActivity {
 
 
 ## Output:
-![output](./33.jpg)
+![output](./41.png)
+![output](./42.png)
+![output](./43.png)
+
+
 
 
 
